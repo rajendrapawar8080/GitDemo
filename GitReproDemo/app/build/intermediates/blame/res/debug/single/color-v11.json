@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/neosoft/.android/build-cache/4e5c329fb66cdea58055c5614ea661c14f66a339/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/neosoft/.android/build-cache/4e5c329fb66cdea58055c5614ea661c14f66a339/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

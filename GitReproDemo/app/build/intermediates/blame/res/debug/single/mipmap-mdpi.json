@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

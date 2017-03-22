@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/neosoft/.android/build-cache/4e5c329fb66cdea58055c5614ea661c14f66a339/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/neosoft/.android/build-cache/4e5c329fb66cdea58055c5614ea661c14f66a339/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/neosoft/.android/build-cache/4e5c329fb66cdea58055c5614ea661c14f66a339/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/neosoft/Rajendra/workplace/GitReproDemo/GitReproDemo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/neosoft/.android/build-cache/4e5c329fb66cdea58055c5614ea661c14f66a339/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
